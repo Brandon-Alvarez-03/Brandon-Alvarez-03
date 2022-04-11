@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning python, numpy, GIS, Spanish and Dutch.
 - 💞️ I’m looking to collaborate on light projects that will open the door for me to practice the fundamentals of my learning interests.
 - 📫 How to reach me: balvarez325@gmail.com
+             LinkedIn: www.linkedin.com/in/brandon-alvarez-03balv
+
                        
 
 <!---
