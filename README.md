@@ -1,4 +1,4 @@
-### Hi there 👋, 👋 Hi, I’m Brandon Alvarez
+### 👋 Hi, I’m Brandon Alvarez
 #### **Software** Engineer <-- *Environmental Engineer*  
 I live in New York City (proudly born & raised here.)
 I have a B.S. in Civil Engineering with an Environmental Engineering Concentration. 
@@ -19,7 +19,7 @@ Skills: JavaScript, Python, HTML, CSS, Node, Express, React, SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50' align="right">](https://github.com/https://github.com/Brandon-Alvarez-03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50' align="right">](https://www.linkedin.com/in/brandon-alvarez-03balv/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=synthwave)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
 
 
 
