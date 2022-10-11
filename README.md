@@ -64,7 +64,7 @@ Now I am combining my diverse skillsets and experience, bringing together ambiti
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50' align="right">](https://github.com/https://github.com/Brandon-Alvarez-03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50' align="right">](https://www.linkedin.com/in/brandon-alvarez-03balv/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=synthwave)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
 
 
 
