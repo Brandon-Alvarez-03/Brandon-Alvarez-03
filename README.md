@@ -1,13 +1,26 @@
-- 👋 Hi, I’m Brandon Alvarez (@Brandon-Alvarez-03), I live in New York City (proudly born & raised here.)
-      I have a B.S. in Civil Engineering with an Environmental Engineering Concentration. 
-      formerTitle = "Environmental Engineer"
-      currentTitle = formerTitle.replace('Environemental', 'Software')
-      print(f' Glad I decided to become a {currentTitle}')
-- 👀 I’m interested in 
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me: balvarez325@gmail.com
-             LinkedIn: www.linkedin.com/in/brandon-alvarez-03balv
+### Hi there 👋, 👋 Hi, I’m Brandon Alvarez
+#### **Software** Engineer <-- *Environmental Engineer*  
+I live in New York City (proudly born & raised here.)
+I have a B.S. in Civil Engineering with an Environmental Engineering Concentration. 
+
+I have several years of experience as an engineer and in technical roles. I found my passion for software engineering while learning to apply programming in solving civil/environmental engineering problems.
+I quickly found I loved the programming part of solving modern engineering problems more than any other aspect!
+
+I am also a veteran drone operator and paratrooper, so I am no stranger to facing complex challenges, both physical and technical!
+
+Now I am combining my diverse skillsets and experience, bringing together ambition, technical strengths, and collaborative attitude to innovate scalable and modern solutions to unique and sometimes ambiguous problems, and I couldn't be happier!
+
+Skills: JavaScript, Python, HTML, CSS, Node, Express, React, SQL
+
+- 🔭 I’m currently working on a suspenseful 2D side-scrolling game! (Check it out here! https://the-boogeyman.netlify.app/) This game is still in progress so stay tuned for continuously integrated updates! 
+- 📫 How to reach me: balvarez325@gmail.com, especially LinkedIn: https://www.linkedin.com/in/brandon-alvarez-03balv 
+- ⚡ Fun fact: I am an amateur bassist! 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Brandon-Alvarez-03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brandon-alvarez-03balv/)  
+
+
+
 
                        
 
