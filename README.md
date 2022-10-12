@@ -23,7 +23,7 @@
 I live in New York City (proudly born & raised here.)
 I have a B.S. in Civil Engineering with an Environmental Engineering Concentration. 
 
-I have several years of experience as an engineer and in technical roles. I found my passion for software engineering while learning to apply programming in solving civil/environmental engineering problems.
+I have several years of experience as an engineer and in other collaborative technical roles. I found my passion for software engineering while learning to apply programming in solving civil/environmental engineering problems.
 I quickly found I loved the programming part of solving modern engineering problems more than any other aspect!
 
 I am also a veteran drone operator and paratrooper, so I am no stranger to facing complex challenges, both physical and technical!
