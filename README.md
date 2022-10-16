@@ -18,7 +18,7 @@
 
 <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="100px"/>
 
-### I’m Brandon Alvarez
+### My name is Brandon!
 #### *Software* Engineer <-- Environmental Engineer* 
 I live in New York City (proudly born & raised here.)
 I have a B.S. in Civil Engineering with an Environmental Engineering Concentration. 
