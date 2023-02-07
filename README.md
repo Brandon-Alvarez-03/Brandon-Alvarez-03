@@ -57,15 +57,16 @@ Now I am combining my diverse skillsets and experience, bringing together ambiti
 
 
 
-
+<!---
 - 🔭 I’m currently working on a suspenseful 2D side-scrolling game! (Check it out here! https://the-boogeyman.netlify.app/) This game is still in progress so stay tuned for continuously integrated updates! 
+--->
 - 📫 How to reach me: balvarez325@gmail.com, especially LinkedIn: https://www.linkedin.com/in/brandon-alvarez-03balv/
 - ⚡ Fun fact: I am an amateur bassist! 
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
-
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
+--->
 </div>
 
 
