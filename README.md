@@ -65,8 +65,8 @@ Now I am combining my diverse skillsets and experience, bringing together ambiti
 
 <div align="center">
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
+
 </div>
 
 
