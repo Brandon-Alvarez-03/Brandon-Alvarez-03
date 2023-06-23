@@ -14,8 +14,6 @@
 </div>
 
 
-
-
 <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="100px"/>
 
 ### My name is Brandon!
@@ -26,17 +24,16 @@ I have a B.S. in Civil Engineering with an Environmental Engineering Concentrati
 I have several years of experience as an engineer and in other collaborative technical roles. I found my passion for software engineering while learning to apply programming in solving civil/environmental engineering problems.
 I quickly found I loved the programming part of solving modern engineering problems more than any other aspect!
 
-I am also a veteran drone operator and paratrooper, so I am no stranger to facing complex challenges, both physical and technical!
+I am also a veteran drone operator and paratrooper, no stranger to facing complex challenges, both physical and technical!
 
 Now I am combining my diverse skillsets and experience, bringing together ambition, technical strengths, and collaborative attitude to innovate scalable and modern solutions to unique and sometimes ambiguous problems, and I couldn't be happier!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -47,15 +44,6 @@ Now I am combining my diverse skillsets and experience, bringing together ambiti
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
-
-
-
-
-
-
-
-
-
 
 <!---
 - 🔭 I’m currently working on: Stay tuned for current project updates. 
