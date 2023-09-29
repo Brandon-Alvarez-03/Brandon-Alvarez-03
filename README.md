@@ -50,6 +50,8 @@ Now I am combining my diverse skillsets and experience, bringing together ambiti
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
 
+  Python | React | TypeScript | JavaScript | Docker | Rust | PostgreSQL | BackEnd-Focused Full Stack 
+
 
 <!---
 - 🔭 I’m currently working on: Stay tuned for current project updates. 
