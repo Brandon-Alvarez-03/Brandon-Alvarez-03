@@ -13,57 +13,42 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Brandon-Alvarez-03&style=flat-square&color=blue" alt="View Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Brandon-Alvarez-03&style=flat-square&color=blue" alt="View Counter"/>
 </div>
 
+### Hey there, I'm Brandon! 👋
 
-<img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="100px"/>
+#### :computer: Full-Stack Software Engineer | :airplane: Former Paratrooper | :camera: Drone Videography & Photography Enthusiast
 
-### My name is Brandon!
-#### *Software* Engineer <-- Environmental Engineer* 
-I live in New York City (proudly born & raised here.)
-I have a B.S. in Civil Engineering with an Environmental Engineering Concentration. 
+Born and raised in New York City, I'm a Full-Stack Software Engineer with a rich background in Civil and Environmental Engineering. I transitioned from engineering to software development, finding my true passion in coding and building innovative solutions.
 
-I have several years of experience as an engineer and in other collaborative technical roles. I found my passion for software engineering developing programming solutions to civil/environmental engineering problems.
-I quickly transitioned to software engineering and development as my primary engineering discipline.
+As a former paratrooper, I'm no stranger to challenges. I bring this resilience to my tech career, where I focus on Python, SQLAlchemy, React, FastAPI, PostgreSQL, Flask, and back-end-centric full stack development. My love for drones extends beyond flying - I build, program, and explore drone technology applications, adding a creative twist to my technical skills.
 
-I am also a veteran drone operator and paratrooper, no stranger to facing complex challenges, both physical and technical!
-
-Now I am combining my diverse skillsets and experience, bringing together ambition, technical strengths, and collaborative attitude to innovate scalable and modern solutions to unique and sometimes ambiguous problems, and I couldn't be happier!
-
-### :hammer_and_wrench: Languages and Tools :
+🔨 **Languages and Tools:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <!-- Other Icons... -->
+</div>
 
+- 📫 **Reach Out to Me:** [LinkedIn](https://www.linkedin.com/in/brandon-alvarez-03balv/) | Email: brandon.a.alvarez1@gmail.com
+- ⚡ **Fun Facts:** 
+  - I'm an amateur bassist and love exploring music!
+  - I also enjoy playing tennis, bringing energy and strategy to the court. 🎾
 
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
-
-  Python | React | TypeScript | JavaScript | Docker | Rust | PostgreSQL | BackEnd-Focused Full Stack 
-
-
-<!---
-- 🔭 I’m currently working on: Stay tuned for current project updates. 
---->
-- 📫 How to reach me: brandon.a.alvarez1@gmail.com, especially LinkedIn: https://www.linkedin.com/in/brandon-alvarez-03balv/
-- ⚡ Fun fact: I am an amateur bassist! 
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
+  ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brandon-Alvarez-03&show_icons=true&theme=radical)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
 
 </div>
+
 
 
 <!---
