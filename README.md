@@ -18,7 +18,7 @@
 
 ### Hey there, I'm Brandon! 👋
 
-#### :computer: Full-Stack Software Engineer | :airplane: Former Paratrooper | :camera: Drone Videography & Photography Enthusiast
+#### :computer: Full-Stack (Back-end Focused) Software Engineer | :airplane: Former Paratrooper | :camera: Drone Enthusiast
 
 Born and raised in New York City, I'm a Full-Stack Software Engineer with a rich background in Civil and Environmental Engineering. I transitioned from engineering to software development, finding my true passion in coding and building innovative solutions.
 
