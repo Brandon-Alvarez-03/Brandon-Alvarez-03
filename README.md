@@ -20,10 +20,11 @@
 
 #### :computer: Full-Stack (Back-end Focused) Software Engineer | :airplane: Former Paratrooper | :camera: Drone Enthusiast
 
-Born and raised in New York City, I'm a Full-Stack Software Engineer with a rich background in Civil and Environmental Engineering. I transitioned from engineering to software development, finding my true passion in coding and building innovative solutions.
+Born and raised in New York City, I'm a Full-Stack Software Engineer with a B.S. degree in Civil and Environmental Engineering, A Software Engineering Full-Time Boot Camp Certificate, and currently completing a Postbaccalaureate B.S. in Computer Science. I transitioned from engineering to software development, finding my true passion in coding and building innovative solutions.
 
-As a former paratrooper, I'm no stranger to challenges. I bring this resilience to my tech career, where I focus on Python, Go, JavaScript, React/Nextjs, TailwindCSS, FastAPI, PostgreSQL, Flask, and back-end-centric full stack development. My love for drones extends beyond flying - I build, program, and explore drone technology applications, adding a creative twist to my technical skills.
+As a former paratrooper, I'm no stranger to challenges. I bring this resilience to my tech career, where I focus on  Go, JavaScript, React/Nextjs, TailwindCSS, Python, PostgreSQL, and back-end-centric full stack development. My love for drones extends beyond flying - I build, program, and explore drone technology applications, adding a creative twist to my technical skills.
 
+<!--
 🔨 **Languages and Tools:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -33,14 +34,14 @@ As a former paratrooper, I'm no stranger to challenges. I bring this resilience 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <!-- Other Icons... -->
-</div>
+  
 
 - 📫 **Reach Out to Me:** [LinkedIn](https://www.linkedin.com/in/brandon-alvarez-03balv/) | Email: BrandonAlvarezSWE@gmail.com
 - ⚡ **Fun Facts:** 
   - I'm an amateur bassist and love exploring music!
   - I also enjoy playing tennis, bringing energy and strategy to the court. 🎾
 
-
+<!--
 <div align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
