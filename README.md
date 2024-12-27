@@ -41,7 +41,7 @@ As a former paratrooper, I'm no stranger to challenges. I bring this resilience 
   - I'm an amateur bassist and love exploring music!
   - I also enjoy playing tennis, bringing energy and strategy to the court. 🎾
 
-<!--
+
 <div align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
