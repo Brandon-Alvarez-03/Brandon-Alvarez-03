@@ -7,9 +7,12 @@
   <a href="https://www.linkedin.com/in/brandon-alvarez-03balv/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <!--
   <a href="https://brandon-alvarez-03.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  -->
+  
 </div>
 
 <div align="center">
