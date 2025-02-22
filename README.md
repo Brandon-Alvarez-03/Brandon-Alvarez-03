@@ -25,7 +25,7 @@
 
 Born and raised in New York City, I'm a Full-Stack Software Engineer with a B.S. degree in Civil and Environmental Engineering, A Software Engineering Full-Time Boot Camp Certificate, and currently completing a Postbaccalaureate B.S. in Computer Science. I transitioned from engineering to software development, finding my true passion in coding and building innovative solutions.
 
-As a former paratrooper, I'm no stranger to challenges. I bring this resilience to my tech career, where I focus on  Go, JavaScript, React/Nextjs, TailwindCSS, Python, PostgreSQL, and back-end-centric full stack development. My love for drones extends beyond flying - I build, program, and explore drone technology applications, adding a creative twist to my technical skills.
+As a former paratrooper, I'm no stranger to challenges. I bring this resilience to my tech career, where I focus on  Go(Lang), Python, JavaScript, React/Nextjs, TailwindCSS, PostgreSQL, and back-end-centric full stack development. My love for drones extends beyond flying - I build, program, and explore drone technology applications, adding a creative twist to my technical skills.
 
 <!--
 🔨 **Languages and Tools:**
