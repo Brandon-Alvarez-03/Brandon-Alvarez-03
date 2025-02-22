@@ -47,7 +47,7 @@ As a former paratrooper, I'm no stranger to challenges. I bring this resilience 
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=compact&theme=gruvbox_light)](https://github.com/Brandon-Alvarez-03/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=donut-vertical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Brandon-Alvarez-03/github-readme-stats))
 
 </div>
 
