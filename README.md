@@ -21,9 +21,9 @@
 
 ### Hey there, I'm Brandon! 👋
 
-#### :computer: Full-Stack (Back-end Focused) Software Engineer | :airplane: Former Paratrooper | :camera: Drone Enthusiast
+#### :computer: Software Engineer | :airplane: Former Paratrooper | :camera: Drone Enthusiast
 
-Born and raised in New York City, I'm a Full-Stack Software Engineer with a B.S. degree in Civil and Environmental Engineering, A Software Engineering Full-Time Boot Camp Certificate, and currently completing a Postbaccalaureate B.S. in Computer Science. I transitioned from engineering to software development, finding my true passion in coding and building innovative solutions.
+Born and raised in New York City, I'm a  Software Engineer with a B.S. degree in Civil and Environmental Engineering, A Software Engineering Full-Time Boot Camp Certificate, and currently completing a Postbaccalaureate B.S. in Computer Science. I transitioned from environmental engineering to software development, finding my true passion in coding and building innovative solutions.
 
 As a former paratrooper, I'm no stranger to challenges. I bring this resilience to my tech career, where I focus on  Go(Lang), Python, JavaScript, React/Nextjs, TailwindCSS, PostgreSQL, and back-end-centric full stack development. My love for drones extends beyond flying - I build, program, and explore drone technology applications, adding a creative twist to my technical skills.
 
@@ -43,6 +43,7 @@ As a former paratrooper, I'm no stranger to challenges. I bring this resilience 
 - ⚡ **Fun Facts:** 
   - I'm an amateur bassist and love exploring music!
   - I also enjoy playing tennis, bringing energy and strategy to the court. 🎾
+  - Currently training for the NYC Half Marathon and Brooklyn Half Marathon.
 
 
 <div align="center">
