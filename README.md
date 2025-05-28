@@ -25,8 +25,6 @@
 
 Born and raised in New York City, I'm a  Software Engineer with a B.S. degree in Civil and Environmental Engineering, A Software Engineering Full-Time Boot Camp Certificate, and currently completing a Postbaccalaureate B.S. in Computer Science. I transitioned from environmental engineering to software development, finding my true passion in coding and building innovative solutions.
 
-As a former paratrooper, I'm no stranger to challenges. I bring this resilience to my tech career, where I focus on  Go(Lang), Python, JavaScript, React/Nextjs, TailwindCSS, PostgreSQL, and back-end-centric full stack development. My love for drones extends beyond flying - I build, program, and explore drone technology applications, adding a creative twist to my technical skills.
-
 <!--
 🔨 **Languages and Tools:**
 <div>
@@ -40,18 +38,19 @@ As a former paratrooper, I'm no stranger to challenges. I bring this resilience 
   
 
 - 📫 **Reach Out to Me:** [LinkedIn](https://www.linkedin.com/in/brandon-alvarez-03balv/) | Email: BrandonAlvarezSWE@gmail.com
-- ⚡ **Fun Facts:** 
+<!-- - ⚡ **Fun Facts:** 
   - I'm an amateur bassist and love exploring music!
   - I also enjoy playing tennis, bringing energy and strategy to the court. 🎾
   - Currently training for the NYC Half Marathon and Brooklyn Half Marathon.
+  --> 
 
-
+<!--
 <div align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Alvarez-03&layout=donut-vertical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Brandon-Alvarez-03/github-readme-stats))
 
 </div>
-
+-->
 
 
 <!---
