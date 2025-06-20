@@ -1,4 +1,5 @@
-
+<!--
+[[
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200"/>
 </div>
@@ -12,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
   -->
-  
+<!--
 </div>
 
 <div align="center">
@@ -36,7 +37,7 @@ Born and raised in New York City, I'm a  Software Engineer with a B.S. degree in
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <!-- Other Icons... -->
   
-
+<!--
 - 📫 **Reach Out to Me:** [LinkedIn](https://www.linkedin.com/in/brandon-alvarez-03balv/) | Email: BrandonAlvarezSWE@gmail.com
 <!-- - ⚡ **Fun Facts:** 
   - I'm an amateur bassist and love exploring music!
@@ -57,3 +58,6 @@ Born and raised in New York City, I'm a  Software Engineer with a B.S. degree in
 Brandon-Alvarez-03/Brandon-Alvarez-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!--
+](url)](url)
+-->
